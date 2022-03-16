@@ -1,1 +1,2 @@
 This file is for demonstrating Git Ignore
+This is line for demonstrating working of gitignore
